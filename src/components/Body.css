@@ -1,0 +1,47 @@
+.hero {
+    display: flex;
+    justify-content: center;
+}
+
+.announcement-body .announcement-title {
+    font-size: 20px;
+    line-height: inherit;
+    margin-bottom: 0;
+    margin-top: 18px;
+}
+
+.announcement-body .announcement-text {
+    line-height: 1.38;
+    margin: 5px 0 10px;
+}
+
+.a {
+    border-bottom: 1px dotted #666;
+    color: #00539b !important;
+    text-decoration: none !important;
+}
+
+.new {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    font-size: 40px;
+    font-weight: 300 !important;
+    line-height: 40px;
+}
+
+.patients {
+    height: 300px;
+    width: 350px;
+}
+
+.icons {
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
